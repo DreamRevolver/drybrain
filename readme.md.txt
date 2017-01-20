@@ -1,2 +1,2 @@
 First test of new git repository
-vlad pidor ebanii
+Sevond string in this file
